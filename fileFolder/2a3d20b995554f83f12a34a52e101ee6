@@ -1,0 +1,11 @@
+Necesito que organices mejor esta idea ¡ y me des un plan de ejecución detallado paso a paso de como debería de llevarse a cabo. 
+
+Quiero desarrollar una app que es un blog personal cms headless, se va a desarrollar con el framework Astro js (ya que es muy bueno para el SEO en páginas dinámicas) y como base de datos quiero usar Strapi. El blog será minimalista pero elegante. 
+
+Los usuarios podrán ver los post que yo suba (solo yo puedo subir post desde una dashboard que solo es visible para mi, por eso lo de "cms headless"). En el blog saldrá en pantalla principal los post (vista previa de los posts) que saldrán unos debajo de otros separados por una linea, no tendrán imágenes la vista previa, será únicamente titulo y descripción, al hacer click en un post se les mostrará el post completo (tendrá el contenido del post además del título, podrá tener imágenes pero no debe ser obligatorio). 
+Cada post en la página principal debe tener un contador de visitas (por cada vez que una persona haga click en un post) también habrá un contador de visitas general de la cantidad de gente que simplemente entre al blog (no tienen porque haber hecho click en los post solo entrar a la página), también debe haber la fecha de creación del post y un buscador arriba del todo para poder filtrar los post (en la pantalla principal). 
+
+Debe ser posible añadir post pero también modificarlo y eliminarlo desde la dashboard que solo veré yo. 
+No quiero que me des el código quiero que estructures la idea de la app como si fueras un programador profesional y luego me des el prompt perfecto que me daría un generador de prommpts profesional para pedirle a una IA que desarrolle la aplicación. También necesito que me digas las instrucciones para montar la base de dato completamente yen detalle incluyendo tablas etc...(absolutamente todo, también como conectar la base de datos al código). Necesito además las instrucciones concretas para crear el proyecto de astro, se lo mas preciso posible. 
+
+Organiza la idea y hazlo todo lo mas preciso y detallado posible, si ves que hay cosas que se repiten no hace falta que las repitas sino simplemente que las expliques bien porque son importantes. 
